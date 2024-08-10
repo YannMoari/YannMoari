@@ -24,4 +24,7 @@ Currently, I’m expanding my skill set by learning MySQL and C#. I’m excited 
 [![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=2d333b&logo=PostgreSQL&logoColor=336791&label=)](https://www.postgresql.org/)
 [![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=2d333b&logo=Node.js&logoColor=8CC84B&label=)](https://nodejs.org/)
 [![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Azure&color=2d333b&logo=Microsoft+Azure&logoColor=0078D4&label=)](https://azure.microsoft.com/)
+[![FormKit](https://img.shields.io/static/v1?style=flat&message=FormKit&color=2d333b&logo=Vue.js&logoColor=F7C24C&label=)](https://formkit.com/)
+
+
 
