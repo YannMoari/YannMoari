@@ -5,10 +5,12 @@ Currently, I’m expanding my skill set by learning MySQL and C#. I’m excited 
 
 
 ## FAQ
-🐣 Born in February 1982
-🌎 Grew up in France, lived near Toulouse then studied in  Paris, and  been living in Cyprus, since 2008.
-🥩 I love food  and  love to cook.
-🏕️ Love to Travel all around the World.
+
+🐣 Born in February 1982  
+🌎 Grew up in France, lived near Toulouse, studied in Paris, and been living in Cyprus since 2008.  
+🥩 I love food and love to cook.  
+🏕️ Love to travel all around the world.
+
 
 
 ## My Stack
