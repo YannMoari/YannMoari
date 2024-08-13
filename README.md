@@ -3,30 +3,59 @@ Hi there! I’m a software engineer with a passion for crafting seamless web exp
 
 Currently, I’m expanding my skill set by learning MySQL and C#. I’m excited about the journey ahead and the new projects that await!
 
+## Table of Contents
+- [About Me](#about-me)
+- [FAQ](#faq)
+- [My Stack](#my-stack)
+- [Contact](#contact)
+
+## About Me
+
+- 🖥️ Software Engineer with a love for web technologies.
+- 🎯 Focused on JavaScript, Vue.js, and Nuxt.js.
+- 🌱 Currently learning MySQL and C# to broaden my full-stack capabilities.
+- 🚀 Passionate about optimizing web performance and enhancing user experiences.
+- 📅 Over 5 years of experience in the industry.
+- 🇫🇷 Born and raised in France, studied in Paris, now living in Cyprus since 2008.
 
 ## FAQ
 
-🐣 Born in February 1982  
-🌎 Grew up in France, lived near Toulouse, studied in Paris, and been living in Cyprus since 2008.  
-🥩 I love food and love to cook.  
-🏕️ Love to travel all around the world.
-
+- 🐣 **Born:** February 1982  
+- 🌍 **From:** Grew up near Toulouse, France; living in Cyprus since 2008.
+- 🍲 **Foodie:** I love food and cooking.
+- 🌍 **Traveler:** Love exploring new places around the world.
 
 
 ## My Stack
 
-[![Nuxt.js](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)](https://nuxtjs.org/)
+### 🌐 Frontend
 [![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2d333b&logo=Vue.js&logoColor=4FC08D&label=)](https://vuejs.org/)
-[![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=2d333b&logo=Vite&logoColor=b635f7&label=)](https://vitejs.dev/)
-[![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)](https://vuetifyjs.com/)
-[![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)](https://tailwindcss.com/)
-[![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)](https://www.w3.org/Style/CSS/)
-[![Sass](https://img.shields.io/static/v1?style=flat&message=Sass&color=2d333b&logo=sass&logoColor=CC6699&label=)](https://sass-lang.com/)
-[![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=2d333b&logo=HTML5&logoColor=E34F26&label=)](https://www.w3.org/TR/html5/)
-[![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=2d333b&logo=PostgreSQL&logoColor=336791&label=)](https://www.postgresql.org/)
-[![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=2d333b&logo=Node.js&logoColor=8CC84B&label=)](https://nodejs.org/)
-[![Azure](https://img.shields.io/static/v1?style=flat&message=Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)](https://azure.microsoft.com/)
+[![Nuxt.js](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)](https://nuxtjs.org/)
+[![Pinia](https://img.shields.io/static/v1?style=flat&message=Pinia&color=2d333b&logo=Pinia&logoColor=F7C24C&label=)](https://pinia.vuejs.org/)
 [![FormKit](https://img.shields.io/static/v1?style=flat&message=FormKit&color=2d333b&logo=Vue.js&logoColor=F7C24C&label=)](https://formkit.com/)
 
+### 🎨 Styling
+[![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)](https://vuetifyjs.com/)
+[![Bootstrap](https://img.shields.io/static/v1?style=flat&message=Bootstrap&color=2d333b&logo=Bootstrap&logoColor=7952B3&label=)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)](https://tailwindcss.com/)
+[![Sass](https://img.shields.io/static/v1?style=flat&message=Sass&color=2d333b&logo=sass&logoColor=CC6699&label=)](https://sass-lang.com/)
+
+### 🔧 Tools & Backend
+[![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=2d333b&logo=Vite&logoColor=b635f7&label=)](https://vitejs.dev/)
+[![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=2d333b&logo=Node.js&logoColor=8CC84B&label=)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=2d333b&logo=PostgreSQL&logoColor=336791&label=)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=4479A1&label=)](https://www.mysql.com/)
+
+### ☁️ Cloud & Deployment
+[![Azure](https://img.shields.io/static/v1?style=flat&message=Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)](https://azure.microsoft.com/)
+
+### 📜 Web Standards
+[![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=2d333b&logo=HTML5&logoColor=E34F26&label=)](https://www.w3.org/TR/html5/)
+[![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)](https://www.w3.org/Style/CSS/)
+
+
+## Contact
+
+- 📧 Email: [yannmoari99@gmail.com](mailto:yannmoari99@gmail.com)
 
 
