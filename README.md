@@ -1,7 +1,4 @@
 ## 👋  My name is Yann Moari 👋
-Hi there! I’m a software engineer with a passion for crafting seamless web experiences. My expertise lies in JavaScript, VueJS and NuxtJS since 2018, and optimizing web performance. Alongside my love for development, I have experience in project management and have worked as a full-stack developer, focusing on front-end technologies.
-
-Currently, I’m expanding my skill set by learning MySQL and C#. I’m excited about the journey ahead and the new projects that await!
 
 ## Table of Contents
 - [About Me](#about-me)
