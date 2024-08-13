@@ -12,7 +12,7 @@
 - 🎯 Focused on JavaScript, Vue.js, and Nuxt.js.
 - 🌱 Currently learning MySQL and C# to broaden my full-stack capabilities.
 - 🚀 Passionate about optimizing web performance and enhancing user experiences.
-- 📅 Over 5 years of experience in the industry.
+- 📅 Over 7 years of experience in the industry.
 - 🇫🇷 Born and raised in France, studied in Paris, now living in Cyprus since 2008.
 
 ## FAQ
