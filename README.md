@@ -24,7 +24,6 @@
 
 
 ## My Stack
-
 ### 🌐 Frontend
 [![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2d333b&logo=Vue.js&logoColor=4FC08D&label=)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)](https://nuxtjs.org/)
@@ -51,7 +50,6 @@
 [![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)](https://www.w3.org/Style/CSS/)
 [![WAI-ARIA](https://img.shields.io/static/v1?style=flat&message=WAI-ARIA&color=2d333b&logo=WAI-ARIA&logoColor=1572B6&label=)](https://www.w3.org/WAI/standards-guidelines/aria/)
 [![WCAG](https://img.shields.io/static/v1?style=flat&message=WCAG&color=2d333b&logo=WCAG&logoColor=1572B6&label=)](https://www.w3.org/WAI/WCAG21/quickref/)
-
 
 
 ## Contact
