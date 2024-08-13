@@ -9,7 +9,7 @@
 ## About Me
 
 - 🖥️ Software Engineer with a love for web technologies.
-- 🎯 Focused on JavaScript, Vue.js, and Nuxt.js.
+- 🎯 Focused on JavaScript/Typescript, Vue.js, and Nuxt.js.
 - 🌱 Currently learning MySQL and C# to broaden my full-stack capabilities.
 - 🚀 Passionate about optimizing web performance and enhancing user experiences.
 - 📅 Over 7 years of experience in the industry.
