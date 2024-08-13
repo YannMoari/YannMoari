@@ -46,9 +46,12 @@
 ### ☁️ Cloud & Deployment
 [![Azure](https://img.shields.io/static/v1?style=flat&message=Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)](https://azure.microsoft.com/)
 
-### 📜 Web Standards
+### 📜 Web Standards and Accessibility
 [![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=2d333b&logo=HTML5&logoColor=E34F26&label=)](https://www.w3.org/TR/html5/)
 [![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)](https://www.w3.org/Style/CSS/)
+[![WAI-ARIA](https://img.shields.io/static/v1?style=flat&message=WAI-ARIA&color=2d333b&logo=WAI-ARIA&logoColor=1572B6&label=)](https://www.w3.org/WAI/standards-guidelines/aria/)
+[![WCAG](https://img.shields.io/static/v1?style=flat&message=WCAG&color=2d333b&logo=WCAG&logoColor=1572B6&label=)](https://www.w3.org/WAI/WCAG21/quickref/)
+
 
 
 ## Contact
