@@ -20,7 +20,7 @@
 
 [![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2d333b&logo=Vue.js&logoColor=4FC08D&label=)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)](https://nuxtjs.org/)
-![Pinia](https://camo.githubusercontent.com/e2216f77805d83bfeb20aa42d4123012e4f9a748421ceb61d0ba132d09e5fb40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625384425384425323050696e69612d7267622831372c32342c3338293f7374796c653d666f722d7468652d6261646765)
+[![Pinia](https://img.shields.io/static/v1?style=flat&message=Pinia&color=2d333b&logo=Pinia&logoColor=F7C24C&label=)](https://pinia.vuejs.org/)
 [![FormKit](https://img.shields.io/static/v1?style=flat&message=FormKit&color=2d333b&logo=Vue.js&logoColor=F7C24C&label=)](https://formkit.com/)
 
 [![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)](https://vuetifyjs.com/)
