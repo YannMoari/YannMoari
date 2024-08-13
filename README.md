@@ -1,11 +1,5 @@
 ## 👋  My name is Yann Moari 👋
 
-## Table of Contents
-- [About Me](#about-me)
-- [FAQ](#faq)
-- [My Stack](#my-stack)
-- [Contact](#contact)
-
 ## About Me
 
 - 🖥️ Software Engineer with a love for web technologies.
@@ -52,8 +46,5 @@
 [![WCAG](https://img.shields.io/static/v1?style=flat&message=WCAG&color=2d333b&logo=WCAG&logoColor=1572B6&label=)](https://www.w3.org/WAI/WCAG21/quickref/)
 
 
-## Contact
-
-- 📧 Email: [yannmoari99@gmail.com](mailto:yannmoari99@gmail.com)
 
 
