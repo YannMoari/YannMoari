@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🖥️ Software Engineer with a love for web technologies.
+- 🖥️ Senior Software Developer .
 - 🎯 Focused on JavaScript/Typescript, Vue.js, and Nuxt.js.
 - 🌱 Currently learning MySQL and C# to broaden my full-stack capabilities.
 - 🚀 Passionate about optimizing web performance and enhancing user experiences.
