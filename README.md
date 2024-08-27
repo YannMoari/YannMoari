@@ -8,13 +8,6 @@
 - 🚀 Passionate about optimizing web performance and enhancing user experiences.
 - 📅 Over 7 years of experience in the industry.
 
-## FAQ
-
-- 🐣 **Born:** February 1982  
-- 🌍 **From:** Grew up near Toulouse, France; living in Cyprus since 2008.
-- 🍲 **Foodie:** I love food and cooking.
-- 🌍 **Traveler:** Love exploring new places around the world.
-
 
 ## My Stack
 
