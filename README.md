@@ -6,7 +6,7 @@
 - 🎯 Focused on JavaScript/Typescript, Vue.js, and Nuxt.js.
 - 🌱 Currently learning MySQL and C# to broaden my full-stack capabilities.
 - 🚀 Passionate about optimizing web performance and enhancing user experiences.
-- 📅 Over 7 years of experience in the industry.
+- 📅 Over 8 years of experience in the industry.
 
 
 ## My Stack
