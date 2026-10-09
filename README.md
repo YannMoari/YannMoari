@@ -1,38 +1,93 @@
-## 👋  My name is Yann Moari 👋
 
-## About Me
+# 👋 Hi, I'm Yann Moari
 
-- 🖥️ Senior Software Developer .
-- 🎯 Focused on JavaScript/Typescript, Vue.js, and Nuxt.js.
-- 🌱 Currently learning MySQL and C# to broaden my full-stack capabilities.
-- 🚀 Passionate about optimizing web performance and enhancing user experiences.
-- 📅 Over 8 years of experience in the industry.
+### Senior Frontend Developer | Full Stack Software Engineer
 
+I'm a software developer with **8+ years of professional experience**, specialising in **Vue 3, Nuxt 4, TypeScript**, and modern frontend architecture.
 
-## My Stack
+## 👨‍💻 About Me
 
-[![Vue.js](https://img.shields.io/static/v1?style=flat&message=Vue.js&color=2d333b&logo=Vue.js&logoColor=4FC08D&label=)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/static/v1?style=flat&message=Nuxt.js&color=2d333b&logo=Nuxt.js&logoColor=4FC08D&label=)](https://nuxtjs.org/)
-[![Pinia](https://img.shields.io/static/v1?style=flat&message=Pinia&color=2d333b&logo=Pinia&logoColor=F7C24C&label=)](https://pinia.vuejs.org/)
-[![FormKit](https://img.shields.io/static/v1?style=flat&message=FormKit&color=2d333b&logo=Vue.js&logoColor=F7C24C&label=)](https://formkit.com/)
+- 💻 **Senior Frontend Developer** with strong Full Stack development experience.
+- 🎯 Specialised in **JavaScript, TypeScript, Vue 3, Nuxt 4**, and scalable web applications.
+- 🏗️ Experienced in developing enterprise software across **FinTech, transaction reconciliation, document management, betting, and real estate**.
+- ⚡ Focused on **performance optimisation, clean architecture, reusable components, accessibility, and responsive web design**.
+- 🧪 Experienced with **unit testing, end-to-end testing, RESTful APIs, and CI/CD workflows**.
+- 🔧 Backend experience with **VB.NET, PostgreSQL, SQL Server, and PLV8**.
+- 🌱 Currently expanding my knowledge of **C# and MySQL**.
+- 🚀 Passionate about building maintainable applications and delivering excellent user experiences.
 
-[![Vuetify](https://img.shields.io/static/v1?style=flat&message=Vuetify&color=2d333b&logo=Vuetify&logoColor=8DD6F9&label=)](https://vuetifyjs.com/)
-[![Bootstrap](https://img.shields.io/static/v1?style=flat&message=Bootstrap&color=2d333b&logo=Bootstrap&logoColor=7952B3&label=)](https://getbootstrap.com/)
-[![Tailwind CSS](https://img.shields.io/static/v1?style=flat&message=Tailwind+CSS&color=2d333b&logo=Tailwind+CSS&logoColor=06B6D4&label=)](https://tailwindcss.com/)
-[![Sass](https://img.shields.io/static/v1?style=flat&message=Sass&color=2d333b&logo=sass&logoColor=CC6699&label=)](https://sass-lang.com/)
+---
 
-[![Vite](https://img.shields.io/static/v1?style=flat&message=Vite&color=2d333b&logo=Vite&logoColor=b635f7&label=)](https://vitejs.dev/)
-[![Node.js](https://img.shields.io/static/v1?style=flat&message=Node.js&color=2d333b&logo=Node.js&logoColor=8CC84B&label=)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=2d333b&logo=PostgreSQL&logoColor=336791&label=)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=2d333b&logo=MySQL&logoColor=4479A1&label=)](https://www.mysql.com/)
+## 🛠️ My Tech Stack
 
-[![Azure](https://img.shields.io/static/v1?style=flat&message=Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)](https://azure.microsoft.com/)
+### 🚀 Frontend & Frameworks
 
-[![HTML5](https://img.shields.io/static/v1?style=flat&message=HTML5&color=2d333b&logo=HTML5&logoColor=E34F26&label=)](https://www.w3.org/TR/html5/)
-[![CSS3](https://img.shields.io/static/v1?style=flat&message=CSS3&color=2d333b&logo=CSS3&logoColor=1572B6&label=)](https://www.w3.org/Style/CSS/)
-[![WAI-ARIA](https://img.shields.io/static/v1?style=flat&message=WAI-ARIA&color=2d333b&logo=WAI-ARIA&logoColor=1572B6&label=)](https://www.w3.org/WAI/standards-guidelines/aria/)
-[![WCAG](https://img.shields.io/static/v1?style=flat&message=WCAG&color=2d333b&logo=WCAG&logoColor=1572B6&label=)](https://www.w3.org/WAI/WCAG21/quickref/)
+[![Vue 3](https://img.shields.io/badge/Vue_3-2d333b?style=flat&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Nuxt 4](https://img.shields.io/badge/Nuxt_4-2d333b?style=flat&logo=nuxt&logoColor=00DC82)](https://nuxt.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-2d333b?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Pinia](https://img.shields.io/badge/Pinia-2d333b?style=flat&logo=pinia&logoColor=FFD859)](https://pinia.vuejs.org/)
+[![Vue Router](https://img.shields.io/badge/Vue_Router-2d333b?style=flat&logo=vuedotjs&logoColor=4FC08D)](https://router.vuejs.org/)
+[![FormKit](https://img.shields.io/badge/FormKit-2d333b?style=flat&logo=vue.js&logoColor=F7C24C)](https://formkit.com/)
+[![Vite](https://img.shields.io/badge/Vite-2d333b?style=flat&logo=vite&logoColor=646CFF)](https://vite.dev/)
 
+### 🎨 UI, Styling & Accessibility
 
+[![HTML5](https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-2d333b?style=flat&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-2d333b?style=flat&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
+[![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-2d333b?style=flat&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
+[![Vuetify](https://img.shields.io/badge/Vuetify-2d333b?style=flat&logo=vuetify&logoColor=1867C0)](https://vuetifyjs.com/)
+[![AG Grid](https://img.shields.io/badge/AG_Grid-2d333b?style=flat)](https://www.ag-grid.com/)
+[![WAI-ARIA](https://img.shields.io/badge/WAI--ARIA-2d333b?style=flat)](https://www.w3.org/WAI/standards-guidelines/aria/)
+[![WCAG](https://img.shields.io/badge/WCAG-2d333b?style=flat)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
+### ⚙️ Backend & Databases
 
+[![VB.NET](https://img.shields.io/badge/VB.NET-2d333b?style=flat&logo=dotnet&logoColor=512BD4)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+[![Node.js](https://img.shields.io/badge/Node.js-2d333b?style=flat&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b?style=flat&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-2d333b?style=flat)](https://www.microsoft.com/en-us/sql-server)
+[![PLV8](https://img.shields.io/badge/PLV8-2d333b?style=flat&logo=postgresql&logoColor=4169E1)](https://plv8.github.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![C#](https://img.shields.io/badge/C%23-Learning-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+### 🧪 Testing & Quality
+
+[![Vitest](https://img.shields.io/badge/Vitest-2d333b?style=flat&logo=vitest&logoColor=6E9F18)](https://vitest.dev/)
+[![Playwright](https://img.shields.io/badge/Playwright-2d333b?style=flat)](https://playwright.dev/)
+[![Unit Testing](https://img.shields.io/badge/Unit_Testing-2d333b?style=flat)](https://vitest.dev/)
+[![E2E Testing](https://img.shields.io/badge/E2E_Testing-2d333b?style=flat)](https://playwright.dev/)
+
+### 🔄 DevOps, CI/CD & Tools
+
+[![Git](https://img.shields.io/badge/Git-2d333b?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2d333b?style=flat&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2d333b?style=flat)](https://docs.github.com/en/actions)
+[![Docker](https://img.shields.io/badge/Docker-2d333b?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-2d333b?style=flat&logo=azuredevops&logoColor=0078D7)](https://azure.microsoft.com/en-us/products/devops)
+[![Postman](https://img.shields.io/badge/Postman-2d333b?style=flat&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-2d333b?style=flat)](https://code.visualstudio.com/)
+
+---
+
+## 🎯 Engineering Focus
+
+- **Frontend Architecture:** Building scalable applications with Vue 3, Nuxt 4, TypeScript, and the Composition API.
+- **Component Design:** Developing reusable components, composables, and modular application structures.
+- **State Management:** Managing complex application state using Pinia.
+- **API Integration:** RESTful APIs, asynchronous requests, Promises, async/await, and error handling.
+- **Performance:** Optimising rendering, application responsiveness, and maintainability.
+- **Accessibility:** Semantic HTML, WAI-ARIA, WCAG principles, and responsive design.
+- **Testing:** Unit, functional, and end-to-end testing using Vitest and Playwright.
+- **CI/CD:** Automated workflows, testing, builds, and deployment processes.
+- **Full Stack Development:** Connecting modern frontend applications with backend services and relational databases.
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Based in Nicosia, Cyprus
+- 💼 Open to Senior Frontend Developer and Full Stack Software Engineer opportunities
+- 🔗 [GitHub](https://github.com/YannMoari)
